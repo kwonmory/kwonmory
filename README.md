@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![세상 다 내꺼](https://github.com/kwonmory/kwonmory/blob/master/images/go.jpeg){: width="300" height="300"}
+<img src="https://github.com/kwonmory/kwonmory/blob/master/images/go.jpeg" width="300px">
 
 <!--
 **kwonmory/kwonmory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
