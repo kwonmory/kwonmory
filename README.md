@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github.com/kwonmory/kwonmory/blob/master/images/go.jpeg" width="300px">
+<center>
+  <img src="https://github.com/kwonmory/kwonmory/blob/master/images/go.jpeg" width="300px">
+</center>
 
 <!--
 **kwonmory/kwonmory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
