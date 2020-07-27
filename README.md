@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![팔 펄려랏](./images/go.jpeg)
+
 <!--
 **kwonmory/kwonmory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
