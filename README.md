@@ -2,13 +2,15 @@
 
 어제보다 성장한 오늘이 되도록 노력하며 프론트엔드를 공부하고 있습니다.
 
-[![My Blog](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=github&link=https://kwonmory.github.io/)](https://kwonmory.github.io/)
+[![My Blog](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=github&link=https://kwonmory.github.io/)](https://blog.kwonmory.com/)
+
+[![Resume](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=github&link=https://kwonmory.github.io/)](https://blog.kwonmory.com/about)
 	
 
-### 체크유얼셀프 리액트 프론트 프로젝트
+### Dev-Interview React Project
 
 - `React`를 이용하여 개발, 피드백을 빠르게 받기 위해 `테스트주도개발`로 개발
-- [깃허브](https://github.com/CodeSoom/check-your-self-kwonmory), [구경하기](https://bit.ly/3heoFfZ)
+- [깃허브](https://github.com/CodeSoom/dev-interview-kwonmory), [구경하기](https://bit.ly/33oglai)
 
 ### Skills
 
