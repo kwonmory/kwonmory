@@ -10,7 +10,7 @@
 ### Dev-Interview React Project
 
 - `React`를 이용하여 개발, 피드백을 빠르게 받기 위해 `테스트주도개발`로 개발
-- [깃허브](https://github.com/CodeSoom/dev-interview-kwonmory), [구경하기](https://bit.ly/33oglai)
+- [깃허브](https://github.com/CodeSoom/dev-interview-kwonmory), [구경하기](https://bit.ly/33oGLai)
 
 ### Skills
 
