@@ -4,9 +4,6 @@
 
 [![My Blog](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=github&link=https://kwonmory.github.io/)](https://blog.kwonmory.com/)
 
-[![Resume](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=github&link=https://kwonmory.github.io/)](https://blog.kwonmory.com/about)
-	
-
 ### Dev-Interview React Project
 
 - `React`를 이용하여 개발, 피드백을 빠르게 받기 위해 `테스트주도개발`로 개발
