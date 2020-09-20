@@ -6,7 +6,9 @@
 
 ### Dev-Interview React Project
 
-- `React`를 이용하여 개발, 피드백을 빠르게 받기 위해 `테스트주도개발`로 개발
+- `React`로 이용하여 개발, 상태관리는 Redux, 비동기 미들웨어는 thunk를 이용하였음
+- 좋은 코드가 무엇인지 생각하며, `테스트주도개발`를 통해 빠른 피드백을 받으며 개발함
+
 - [깃허브](https://github.com/CodeSoom/dev-interview-kwonmory), [구경하기](https://bit.ly/33oGLai)
 
 ### Skills
